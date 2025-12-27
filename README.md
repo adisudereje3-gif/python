@@ -17,10 +17,12 @@ Loops: Uses a `while` loop to keep the game running until the correct answer is 
 1. Make sure you have Python installed.
  <h2>2. ✂️ Rock, Paper, Scissors (`rock_paper_scissor.py`)</h2>
 The classic game where you compete against the computer. Will you win, lose, or draw?
-Key Concept:** Logic handling and list manipulation.
+Key Concept: Logic handling and list manipulation.
 
  🚀 How to Play
 1. Clone this repository:
    ```bash
+   ```bash
+   git clone [https://github.com/adisudereje3-gif/python.git](https://github.com/adisudereje3-gif/python.git)
   git clone https://github.com/adisudereje3-gif/python.git
   <h3> Developed by Adisu Dereje</h3>
