@@ -24,5 +24,5 @@ Key Concept: Logic handling and list manipulation.
    ```bash
    ```bash
    git clone [https://github.com/adisudereje3-gif/python.git](https://github.com/adisudereje3-gif/python.git)
-  git clone https://github.com/adisudereje3-gif/python.git
+  git clone https://github.com/Adisu-Dev/python.git
   <h3> Developed by Adisu Dereje</h3>
